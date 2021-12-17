@@ -52,14 +52,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A40608802764235700D83703 /* Data */ = {
-			isa = PBXGroup;
-			children = (
-				A406087E2764234B00D83703 /* Data-Movie.swift */,
-			);
-			path = Data;
-			sourceTree = "<group>";
-		};
 		A42E1C0927621E6400353D01 = {
 			isa = PBXGroup;
 			children = (
@@ -84,7 +76,6 @@
 				A4FEACAE276C9E7C006ED79C /* Views */,
 				A4FEACAD276C9E76006ED79C /* ViewModels */,
 				A4B0D3992763DB1400E5BBD6 /* MainView.swift */,
-				A40608802764235700D83703 /* Data */,
 				A4B0D3912763B9AD00E5BBD6 /* ContentView.swift */,
 				A40608832764348400D83703 /* DetailView.swift */,
 				A4FEACAA276C9E1C006ED79C /* MovieView.swift */,
@@ -109,6 +100,7 @@
 			children = (
 				A4FEACAF276C9F08006ED79C /* Movie.swift */,
 				A4FEACB5276CA448006ED79C /* MovieGenre.swift */,
+				A406087E2764234B00D83703 /* Data-Movie.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";

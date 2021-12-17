@@ -32,8 +32,8 @@ let movies:[Movie] = [
               duration: 160,
               genres: "Drama",
               genre: .drama,
-              rating: "4.2",
-              plot: "The film tells the darkly romantic story of Diabolik and Eva’s first meeting, set in the fictitious state of Clerville in the 1960s."),
+              rating: "3",
+              plot: "A group of young children become swept up into a digital realm where they meet talking monsters who aid them in battle against a threat to both their worlds."),
     
         .init(id: 3, featured: true,
               title: "Spider-Man", director: "Antonio & Marco Manetti",
